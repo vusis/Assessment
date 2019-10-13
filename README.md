@@ -1,7 +1,7 @@
 # Assessment
 To develop this application I used Visual Studio Code and Python (Install both applications).  
 
-Unzip the project (digitaltestexam first folder)   
+Download and Unzip the project (digitaltestexam first folder)   
 
 Powershell run the following commands: 
 1. pip install django 
